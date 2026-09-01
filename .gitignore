@@ -1,0 +1,13 @@
+# 仮想環境
+.venv/
+
+# 音声ファイル・文字起こし結果（議論の内容を含むため git 管理外）
+*.m4a
+*.mp3
+*.wav
+*.txt
+*.srt
+*.tsv
+
+# macOS
+.DS_Store
